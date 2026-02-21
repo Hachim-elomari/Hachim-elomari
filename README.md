@@ -1,4 +1,4 @@
-# 👨‍💻 Mohammed Hachim Elomari
+# 👨‍💻 Mohammed Hachim ELOMARI
 
 💻 Software Engineering Student
 🎓 M1 Computer Science – UBO (France)
