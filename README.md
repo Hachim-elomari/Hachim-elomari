@@ -12,7 +12,6 @@
 Computer Science Master’s student passionate about software development, backend systems, and full-stack applications.  
 I mainly build real-world projects: web platforms, mobile apps, and software applications.
 
-🌐 Portfolio built with React & Next.js (see pinned repositories)
 
 ---
 
@@ -30,7 +29,9 @@ I mainly build real-world projects: web platforms, mobile apps, and software app
 * 🧾 **Ready2Scan** – QR-code web application for product information (PHP, MariaDB)  
 * 🎬 **VOD App** – JavaFX application with user/admin system and booking features (Java, JUnit)  
 * 🏆 **OlymPix** – Competition management web platform (PHP, CodeIgniter, SQL)  
-* 🎮 **2048 Game** – Game development in Kotlin (grid logic & UI)  
+* 🎮 **2048 Game** – Game development in Kotlin (grid logic & UI)
+* 🌐 **Portfolio** – built with React & Next.js (see pinned repositories)
+
 
 ---
 
