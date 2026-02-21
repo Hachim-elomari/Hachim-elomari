@@ -1,7 +1,6 @@
-# 👨‍💻 Mohammed Hachim ELOMARI
+# 💻 Software Engineering Student
 
-💻 Software Engineering Student
-🎓 M1 Computer Science – UBO (France)
+🎓 M1 Computer Science – University of Western Brittany (UBO) – (France)
 📍 Brest, France
 💼 Actively looking for a **Software Development Internship (April 2026)**
 🎓 Seeking an **Apprenticeship / Alternance (Sept 2026)**
