@@ -2,8 +2,7 @@
 
 🎓 M1 Computer Science – University of Western Brittany (UBO) – France  
 📍 Brest, France  
-💼 Actively looking for a **Software Development Internship (April 2026)**  
-🎓 Seeking an **Apprenticeship / Alternance (Sept 2026)**  
+💼 Actively looking for a **Software Development Apprenticeship / Alternance (Sept 2026)**  
 
 ---
 
