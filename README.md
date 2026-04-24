@@ -49,5 +49,6 @@ French (B2) • English (B2) • Arabic (Native) • Spanish (B1) • German (A2
 
 ## 📫 Contact
 
-📧 Email : [elomarihachim@gmail.com](mailto:elomarihachim@gmail.com)  
+📧 Email: [elomarihachim@gmail.com](mailto:elomarihachim@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/mohammed-hachim-elomari-929162250](https://www.linkedin.com/in/mohammed-hachim-elomari-929162250)
+💻 Portfolio: [Hachim's portfolio](https://portfolio-hachim-elomaris-projects.vercel.app/)
