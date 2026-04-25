@@ -17,7 +17,7 @@ I mainly build real-world projects: web platforms, mobile apps, and software app
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,php,laravel,python,flutter,firebase,react,nextjs,mysql,git,js,html,css,kotlin,c,dart,go" />
+  <img src="https://skillicons.dev/icons?i=java,php,laravel,python,flutter,firebase,react,nextjs,mysql,git,js,html,css,kotlin,c,dart,go,springboot" />
 </p>
 
 ---
